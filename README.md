@@ -1,5 +1,6 @@
 <h1 align="center">Hi! 👋 I'm Donghyun Kim!</h1>
 
+<!--
 ## 🤔 Interests
 
 ## 🌱 skills
@@ -20,8 +21,8 @@
 </br>
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-
+*/
+-->
 
 <!--
 - 🔭 I’m currently working on ...
